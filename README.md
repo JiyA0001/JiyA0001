@@ -54,7 +54,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/JiyA0001  
+- LinkedIn: [https://linkedin.com/in/jiya  ](https://www.linkedin.com/in/jiya-aggarwal/)
 - Email: jiya2aggarwal@gmail.com  
 
 ⭐ Feel free to explore my repositories and connect!
