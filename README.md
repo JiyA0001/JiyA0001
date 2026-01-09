@@ -28,21 +28,39 @@
 
 ## 📌 Featured Projects
 
-### ✅ TaskBuddy (Django To-Do App)
+### ✅ TaskBuddy — Django To-Do App
 - User authentication & session management  
 - Task prioritization, deadlines & status tracking  
 - Clean UI with responsive design  
+🔗 Repo: https://github.com/JiyA0001/TaskBuddy  
 
-### ✅ Automated WhatsApp Message Sender
-- Automated bulk messaging using Python  
-- Excel-based contact extraction  
-- Reduced repetitive manual communication  
+---
 
-### ✅ Mini Python Utilities
+### 🛍️ CartBliss — E-Commerce Web App
+- Product listing & category-based browsing  
+- Add to cart, remove items, quantity updates  
+- Session-based cart management  
+- Responsive UI using Bootstrap  
+🔗 Repo: https://github.com/JiyA0001/CartBliss  
+
+---
+
+### 🎤 Aayu Mitra — Voice Assistant
+- Voice command recognition  
+- Wikipedia & web search  
+- Tells date & time  
+- Plays music and opens applications  
+🔗 Repo: https://github.com/JiyA0001/aayu-mitra-voice-assistant  
+
+---
+
+### ⚙️ Mini Python Services
 - Audio to Text Converter  
 - Text Summarizer  
 - Google Image Downloader  
 - Content Generator  
+🔗 Repo: https://github.com/JiyA0001/Services  
+
 
 ---
 
